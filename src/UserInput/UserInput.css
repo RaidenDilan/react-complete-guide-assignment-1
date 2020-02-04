@@ -1,0 +1,15 @@
+/* .UserInput input {
+  border: 2px solid #000;
+  margin: 16px auto;
+  padding: 6px 10px;
+  text-align: center;
+  outline: none;
+} */
+
+.UserInput input:focus {
+  border-color: #00d1b2;
+}
+
+/* .UserInput input:hover {
+  border-color: #6c37cf;
+} */
